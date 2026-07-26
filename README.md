@@ -1,5 +1,5 @@
 ## Hello!
-
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fmcz.kr&up_message=Online&up_color=3776ab&down_message=Offline&down_color=red&label=Server&labelColor=white&cacheSeconds=21600&link=https%3A%2F%2Fstats.uptimerobot.com%2FqPLNoZsWdg)
 
 ### I use:
 ![Static Badge](https://img.shields.io/badge/Gentoo-54487a?logo=Gentoo)
