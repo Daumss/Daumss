@@ -1,6 +1,19 @@
 ## Hello!
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fmcz.kr&up_message=Online&up_color=3776ab&down_message=Offline&down_color=red&label=Server&labelColor=white&cacheSeconds=21600&link=https%3A%2F%2Fstats.uptimerobot.com%2FqPLNoZsWdg)
 
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0002-4420-7698"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      ORCID: 0009-0002-4420-7698</a>
+
 Contact Me: [Email](mailto:likedaum23@gmail.com) ![Reddit](https://img.shields.io/reddit/user-karma/combined/http-error-502?style=social&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fhttp-error-502%2F)
 
 ### I use:
