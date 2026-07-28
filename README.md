@@ -47,5 +47,5 @@ Contact Me: [Email](mailto:likedaum23@gmail.com) ![Reddit](https://img.shields.i
 ![Static Badge](https://img.shields.io/badge/Tails-56347c?logo=tails)
 ![Static Badge](https://img.shields.io/badge/Arduino-00878f?logo=arduino)
 ![Static Badge](https://img.shields.io/badge/Qubes-3874d8?logo=qubesos&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Gemini_API-black?logo=gemini&logoColor=8e75b2)
+![Static Badge](https://img.shields.io/badge/Gemini_API-black?logo=googlegemini&logoColor=8e75b2)
 ![Static Badge](https://img.shields.io/badge/Synology_NAS-black?logo=synology&logoColor=white)
