@@ -16,7 +16,7 @@
 
 Contact Me: [Email](mailto:likedaum23@gmail.com) ![Reddit](https://img.shields.io/reddit/user-karma/combined/http-error-502?style=social&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fhttp-error-502%2F)
 
-### I use:
+### I handles:
 ![Static Badge](https://img.shields.io/badge/Gentoo-54487a?logo=Gentoo)
 ![Static Badge](https://img.shields.io/badge/Linux-fcc624?logo=Linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/AOSP-3dd84?logo=Android)
