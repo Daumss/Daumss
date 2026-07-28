@@ -34,7 +34,7 @@ Contact Me: [Email](mailto:likedaum23@gmail.com) ![Reddit](https://img.shields.i
 ![Static Badge](https://img.shields.io/badge/Bash-4eaa25?logo=gnubash&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Immich-4250af?logo=immich)
-![Static Badge](https://img.shields.io/badge/Firefox-black?logo=firefoxbrowser&logoColor=ff7139)
+![Static Badge](https://img.shields.io/badge/Firefox-purple?logo=firefoxbrowser&logoColor=ff7139)
 ![Static Badge](https://img.shields.io/badge/QEMU-ff6600?logo=qemu&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-white?logo=git)
