@@ -49,3 +49,6 @@ Contact Me: [Email](mailto:likedaum23@gmail.com) ![Reddit](https://img.shields.i
 ![Static Badge](https://img.shields.io/badge/Qubes-3874d8?logo=qubesos&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Gemini_API-black?logo=googlegemini&logoColor=8e75b2)
 ![Static Badge](https://img.shields.io/badge/Synology_NAS-black?logo=synology&logoColor=white)
+![Static Badge](https://img.shields.io/badge/npm-green?logo=npm&logoColor=CB3837)
+![Static Badge](https://img.shields.io/badge/M5Stack-white?logo=&logoColor=0077C8)
+
