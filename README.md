@@ -55,3 +55,5 @@ Contact Me: [Email](mailto:likedaum23@gmail.com) ![Reddit](https://img.shields.i
 ![Static Badge](https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/RISC--V-white?logo=riscv&logoColor=283272)
+![Static Badge](https://img.shields.io/badge/Xfce-gray?logo=xfce&logoColor=2284F2)
+![Static Badge](https://img.shields.io/badge/GTK-white?logo=gtk&logoColor=7FE719)
